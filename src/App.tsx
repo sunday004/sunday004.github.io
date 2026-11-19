@@ -3,7 +3,6 @@ import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { FocusStrip } from './components/FocusStrip';
 import { Projects } from './components/Projects';
-import { SenseDecideAct } from './components/SenseDecideAct';
 import { Experience } from './components/Experience';
 import { Skills } from './components/Skills';
 import { About } from './components/About';
@@ -59,7 +58,6 @@ export function App() {
         <Hero />
         <FocusStrip />
         <Projects />
-        <SenseDecideAct />
         <Experience />
         <Skills />
         <About />
