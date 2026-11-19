@@ -36,7 +36,7 @@ export const profile: Profile = {
   github: 'https://github.com/sunday004/',
   linkedin: 'https://www.linkedin.com/in/sunday-ochigbo-a9b018240/',
   resumePath: 'resume.pdf',
-  headshotSrc: null,
+  headshotSrc: 'images/headshot.jpg',
   headshotAlt: 'Sunday Ochigbo',
   initials: 'SO',
   headshotNote: '[Add your headshot here]',
